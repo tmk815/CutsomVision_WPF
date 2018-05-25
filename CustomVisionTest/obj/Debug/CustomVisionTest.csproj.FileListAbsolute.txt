@@ -1,0 +1,17 @@
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.csprojResolveAssemblyReference.cache
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.Form1.resources
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.Properties.Resources.resources
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.csproj.GenerateResource.cache
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.csproj.CoreCompileInputs.cache
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\CustomVisionTest.exe.config
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\CustomVisionTest.exe
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\CustomVisionTest.pdb
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\Microsoft.Cognitive.CustomVision.Prediction.dll
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\Microsoft.Cognitive.CustomVision.Prediction.pdb
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.csproj.CopyComplete
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.exe
+C:\Users\monnd\source\repos\CustomVisionTest\CustomVisionTest\obj\Debug\CustomVisionTest.pdb
